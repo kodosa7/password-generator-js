@@ -1,5 +1,5 @@
 # Password Generator
-A Scrimba Frontend Path Course exercise website to generate paswwords
+A Scrimba Frontend Path Course exercise website to generate passwords
 
 ## generates two 15-characters long random passwords by clicking a button
 
